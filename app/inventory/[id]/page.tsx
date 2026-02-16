@@ -5,16 +5,7 @@ import { Section } from '@/components/ui/section';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import {
-  Phone,
-  Mail,
-  CheckCircle2,
-  ArrowLeft,
-  Phone,
-  Mail,
-  CheckCircle2,
-  ArrowLeft,
-} from 'lucide-react';
+import { Phone, Mail, CheckCircle2, ArrowLeft } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { useParams } from 'next/navigation';
